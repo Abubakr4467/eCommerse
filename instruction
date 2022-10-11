@@ -1,5 +1,5 @@
 Instructions
- Assignment Instructions
+
 
 Goals:
 
@@ -129,7 +129,7 @@ Deliverable:
 
 ========
 
-Grading:
+
 1- documentation on how to deploy/use your system (Demo short video link is accepted)
 3: deploy to k8s
 2:implement valid scenario (login→order->payment->transaction->shipping)
